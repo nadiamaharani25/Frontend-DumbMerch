@@ -1,0 +1,56 @@
+/* Admin */
+.left-side {
+    background-color: white;
+    margin-top: 130px;
+    width: 50%;
+    border-right: 1px solid white;
+}
+
+.right-side {
+    background-color: white;
+    margin-top: 90px;
+    align-items: flex-end;
+    width: 90%;
+    background-color: black;
+}
+
+.chat {
+    display: flex;
+}
+
+.solid{
+border-left: 1px rgb(148, 148, 148) solid;
+height: 630px;
+width: 0px;
+display: inline-block;
+/* padding-left: 5px; */
+justify-content: center;
+margin-left: 300px;
+}
+
+.text-admin {
+    margin-left: -70px;
+    color: white;
+}
+
+.text-muted-admin {
+    margin-left: -70px;
+    margin-top: -15px;
+    font-size: 13px;
+}
+
+.card-footer {
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.col-sm-8 {
+    margin-top: 30px;
+}
+
+/* Chat */
+.container-chat {
+    display: inline;
+    margin: auto;
+    margin-top: 30px;
+}

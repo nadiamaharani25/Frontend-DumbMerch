@@ -1,0 +1,26 @@
+.text-center {
+    margin-top: 120px;
+    width: 70%;
+}
+
+.card-body-cart {
+    width: 80%;
+    margin: auto;
+}
+
+.card-header-cart {
+    width: 100%;
+    color: red;
+}
+
+.container-cart {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+/* .col-md-3 .for-mouse {
+    margin-top: 10px;
+    margin-bottom: -70px;
+    margin: auto;
+} */

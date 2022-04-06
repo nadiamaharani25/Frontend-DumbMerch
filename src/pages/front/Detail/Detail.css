@@ -1,0 +1,16 @@
+.card {
+    max-width: 70%;
+    margin: auto;
+    background-color: black;
+}
+
+.img-fluid {
+    width: 350px;
+    height: 450px;
+}
+
+.card-body-product {
+    margin-left: -40px;
+    margin-top: 10px;
+    color: white;
+}

@@ -1,0 +1,50 @@
+.table {
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(82, 82, 82);
+}
+
+.list-category {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 150px;
+}
+
+.btn-success {
+    padding: 5px 50px;
+    display: inline-flex;
+}
+
+.btn {
+    margin-right: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*  ================= EDIT CATEGORY ======================  */
+
+.input-mouse {
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: -110px;
+    /* margin: auto; */
+}
+
+.btn-save {
+    width: 100%;
+    margin: auto;
+    margin-top: 170px;
+}
+
+Form {
+    width: 82%;
+    margin: auto;
+}
+
+.edit {
+    margin-top: 150px;
+}
